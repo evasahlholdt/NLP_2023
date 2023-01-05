@@ -42,7 +42,7 @@ In order to run the code applied in this project, you need to adopt the followin
 ### 1. Clone repository and download requirements
 In order to clone the repository, and download the requirements, run the following code:
 ```
-git clone https:://github.com/evasahlholdt/NLP_exam_2023_Eva-Liv.git
+git clone https://github.com/evasahlholdt/NLP_exam_2023_Eva-Liv.git
 cd NLP_exam_2023_Eva-Liv
 pip install -r requirements.txt
 
