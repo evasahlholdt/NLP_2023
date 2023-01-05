@@ -1,4 +1,5 @@
 # Natural Language Processing Exam 2023
+Eva Sahlholdt (study number) Hansen and Liv Tollånes (201905665)
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
