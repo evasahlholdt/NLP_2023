@@ -16,6 +16,7 @@ In order to run the code applied in this project, you need to adopt the followin
 <!-- REPOSITORY STRUCTURE -->
 ## Repository structure
 This repository has the following structure:
+```
 myproject/
 ├── Functions/
 │ ├── Topic_functions.py
@@ -30,6 +31,7 @@ myproject/
 │ └── sentiment_bar_chart.png
 ├── requirements.txt
 └── README.md
+```
 
 <!-- DATA -->
 ## Data
