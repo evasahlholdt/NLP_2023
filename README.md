@@ -5,9 +5,15 @@ Eva Sahlholdt Hansen(201805908) and Liv Tollånes (201905665)
 ## About the project
 In this exam project, we make use of topic modelling in an attempt to perform quantifiable assessment of written reviews regarding depressed individuals' experiences with treatment through selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs). Specifically, we investigate whether topic modeling can provide useful insights into what patients in the two drug groups are concerned with when reporting their experiences. Furthermore, the analysis is focused on deciphering which experiences underlie reviews from satisfied and dissatisfied patients. A sentiment analysis is performed as a complementary analysis in order to obtain deeper insights into the possible meaning of the identified topics. 
  
+ 
+ <!-- DATA -->
+## Data
+The data files were too large to upload to this repository. As such, you will have to manually download it from the following link:
+
+
  <!-- REPOSITORY STRUCTURE -->
 ## Repository structure
-This repository has the following structure:
+After downloading the data, you will have to create a folder called data. Here, the two csv-files should be inputted. After this, this repository has the following structure:
 ```
 
 ├── data
@@ -32,9 +38,7 @@ This repository has the following structure:
     ├── Topic_modelling.py
     └── Sentiment.py
 ```
-<!-- DATA -->
-## Data
-Fill in info regarding the data set
+
 
  <!-- USAGE -->
 ## Usage
