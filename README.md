@@ -34,9 +34,6 @@ This repository has the following structure
 │
 ├── README.md
 ├── requirements.txt
-└── scripts
-    ├── Topic_modelling.py
-    └── Sentiment.py
 ```
 Note:
 Some of the files in this repository are uploaded beforehand. This is so that all files produced in the analysis can be accessed without running the code.  These are the topic_reviews_df.csv in 'data', and all files in 'out'. If the two files in 'scrips' are run, these files will all be overwritten. 
