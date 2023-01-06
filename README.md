@@ -8,12 +8,12 @@ In this exam project, we make use of topic modelling in an attempt to perform qu
  
  <!-- DATA -->
 ## Data
-The data files were too large to upload to this repository. As such, you will have to manually download it from the following link:
+The data files were too large to upload to this repository, and will have to be downloaded. See steps under the subtitle "usage." 
 
 
  <!-- REPOSITORY STRUCTURE -->
 ## Repository structure
-After downloading the data, you will have to create a folder called data. Here, the two csv-files should be inputted. After this, this repository has the following structure:
+After completing the steps in order to download the data, this repository will have the following structure:
 ```
 
 ├── data
@@ -45,12 +45,18 @@ After downloading the data, you will have to create a folder called data. Here, 
 
 In order to run the code applied in this project, you need to adopt the following steps:
 
-1. Clone repository and download requirements
-2. Run topic model
-3. Run sentiment analysis
+1. Download data and create a folder called data
+2. Clone repository and download requirements
+3. Run topic model
+4. Run sentiment analysis
 
 
-### 1. Clone repository and download requirements
+### 1. Download data and create a folder called data
+The data can be downloaded from the following link:
+
+After downloading the data, you will have to create a folder called data. Here, the two csv-files should be inputted. The file topic_reviews_df.csv, will be uploaded to the data folder once the Topic_modelling.py script is run.
+
+### 2. Clone repository and download requirements
 In order to clone the repository, and download the requirements, run the following code:
 ```
 git clone https://github.com/evasahlholdt/NLP_exam_2023_Eva-Liv.git
@@ -58,7 +64,7 @@ cd NLP_exam_2023_Eva-Liv
 pip install -r requirements.txt
 
 ```
-## 2. Run topic model
+### 3. Run topic model
 Run the topic model by executing the following code
 ```
 python3 scripts/Topic_modelling.py
@@ -69,7 +75,7 @@ Outputs from the model can be found in the 'out'-folder. Look for the files call
 - overall_barchart.png
 - sentiment_bar_chart.png
 
-## 3. Run the sentiment analysis
+### 4. Run the sentiment analysis
 Run the sentiment analysis by executing the following code
 ```
 python3 scripts/Sentiment.py
