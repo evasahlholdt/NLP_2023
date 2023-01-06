@@ -9,29 +9,28 @@ In this exam project, we make use of topic modelling in an attempt to perform qu
 ## Repository structure
 This repository has the following structure:
 ```
-NLP_project/
+
+├── data
+│   ├── drugsComTest_raw.csv
+│   ├── drugsComTrain_raw.csv
+│   └── topic_reviews_df.csv
 │
-├── functions/
-│ ├── Topic_functions.py
-│ └── Data_prep.py
+├── functions
+│   └── Topic_functions.py
+│   └── Data_prep.py
 │
-├── scripts/
-│ ├── Topic_modelling.py
-│ └── Sentiment.py
+├── out
+│   ├── hierarchical_clusters.png
+│   ├── top_words_.png
+│   ├── overall_barchart.png
+│   ├── sentiment_bar_chart.png
+│   └── sentiment_df.csv
 │
-├── data/
-│ ├── drugsComTrain_raw.csv
-│ └── drugsComTest_raw.csv
-│
-├── out/
-│ ├── hierarchical_clusters.png
-│ └── top_words_.png
-│ └── overall_barchart.png
-│ └── sentiment_bar_chart.png
-│
+├── README.md
 ├── requirements.txt
-├── fullpaper.pdf
-└── README.md
+└── scripts
+    ├── Topic_modelling.py
+    └── Sentiment.py
 ```
 <!-- DATA -->
 ## Data
