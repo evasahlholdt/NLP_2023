@@ -91,6 +91,6 @@ All ouputs from the analyses can be found in the 'out'-folder.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-We wantae express oor grandest cheers tae ross deans fur his reliable support 'n' enthusiasm while th' coorse. He haes bin th' greatest NLP teacher.
+We wantae express oor grandest cheers tae Ross Deans Kristensen-McLachlan fur his reliable support 'n' enthusiasm while th' coorse. He haes bin th' greatest NLP teacher.
 
 
