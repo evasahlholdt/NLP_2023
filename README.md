@@ -27,6 +27,11 @@ This repository has the following structure
 │   ├── sentiment_bar_chart.png
 │   └── sentiment_df.csv
 │
+├── scripts
+│   └── Sentiment.py
+│   └── Topic_modelling.py
+│
+│
 ├── README.md
 ├── requirements.txt
 └── scripts
