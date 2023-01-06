@@ -10,17 +10,25 @@ In this exam project, we make use of topic modelling in an attempt to perform qu
 This repository has the following structure:
 ```
 NLP_project/
+│
 ├── functions/
 │ ├── Topic_functions.py
 │ └── Data_prep.py
+│
 ├── scripts/
 │ ├── Topic_modelling.py
 │ └── Sentiment.py
+│
+├── data/
+│ ├── drugsComTrain_raw.csv
+│ └── drugsComTest_raw.csv
+│
 ├── out/
 │ ├── hierarchical_clusters.png
 │ └── top_words_.png
 │ └── overall_barchart.png
 │ └── sentiment_bar_chart.png
+│
 ├── requirements.txt
 ├── fullpaper.pdf
 └── README.md
