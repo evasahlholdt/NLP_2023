@@ -3,7 +3,7 @@ Eva Sahlholdt Hansen(201805908) and Liv Tollånes (201905665)
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
-In this exam project, we take use of topic modelling in an attempt to perform quantifiable assessment of written reviews regarding depressed individuals' experiences with treatment through selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs). Specifically, we investigate whether topic modeling can provide useful insights into what patients in the two drug groups are concerned with when reporting their experiences. Furthermore, the analysis is focused on deciphering which experiences underlie reviews from satisfied and dissatisfied patients. A sentiment analysis is performed as a complementary analysis in order to obtain deeper insights into the possible meaning of the identified topics. 
+In this exam project, we make use of topic modelling in an attempt to perform quantifiable assessment of written reviews regarding depressed individuals' experiences with treatment through selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs). Specifically, we investigate whether topic modeling can provide useful insights into what patients in the two drug groups are concerned with when reporting their experiences. Furthermore, the analysis is focused on deciphering which experiences underlie reviews from satisfied and dissatisfied patients. A sentiment analysis is performed as a complementary analysis in order to obtain deeper insights into the possible meaning of the identified topics. 
  
  <!-- REPOSITORY STRUCTURE -->
 ## Repository structure
