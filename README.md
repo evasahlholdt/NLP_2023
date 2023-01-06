@@ -30,6 +30,8 @@ This repository has the following structure
 ├── scripts
 │   └── Sentiment.py
 │   └── Topic_modelling.py
+│   └── DATA PREP SSRI SNRI.ipynb
+│   └── BERTopic SSRI SNRI.ipynb
 │
 │
 ├── README.md
