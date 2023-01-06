@@ -54,7 +54,7 @@ In order to run the code applied in this project, you need to adopt the followin
 4. Inspect results
 
 
-### 1. Clone repository and download requirements
+#### 1. Clone repository and download requirements
 In order to clone the repository, and download the requirements, run the following code:
 ```
 git clone https://github.com/evasahlholdt/NLP_exam_2023_Eva-Liv.git
@@ -62,7 +62,7 @@ cd NLP_exam_2023_Eva-Liv
 pip install -r requirements.txt
 
 ```
-### 2. Run topic model
+#### 2. Run topic model
 Run the topic model by executing the following code in your terminal:
 ```
 python3 scripts/Topic_modelling.py
@@ -74,7 +74,7 @@ This code produces a set of outputs that are saved in the 'out'-folder. These ar
 - overall_barchart.png
 - sentiment_bar_chart.png
 
-### 3. Run the sentiment analysis
+#### 3. Run the sentiment analysis
 Run the sentiment analysis by executing the following code
 ```
 python3 scripts/Sentiment.py
@@ -82,7 +82,7 @@ python3 scripts/Sentiment.py
 This code produces an output which is saved in the 'out'-folder. This is the file called:
 sentiment_df.csv
 
-### 4. Inspect Results
+#### 4. Inspect Results
 All ouputs from the analyses can be found in the 'out'-folder. 
 
 
